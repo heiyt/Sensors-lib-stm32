@@ -1,1 +1,0 @@
-MQTT协议的password计算器，也就是设备端签名。参考文档https://help.aliyun.com/document_detail/73742.html
